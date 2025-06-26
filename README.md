@@ -5,8 +5,6 @@ DevOps Learning Journey – Kubernetes Architecture
 ## Kubernetes Architecture
 ![Kubernetes Architecture](Simple%20Kubernetes%20Architecture.png)
 
-Spent the day exploring Kubernetes and its core components.
-Gained a better understanding of how it manages, schedules, and scales containers across clusters.
 
 
 ##  Core Concepts:
