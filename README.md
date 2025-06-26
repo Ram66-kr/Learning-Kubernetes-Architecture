@@ -1,7 +1,9 @@
 
-###############################################################################################
+######################################################
 DevOps Learning Journey – Kubernetes Architecture
-###############################################################################################
+######################################################
+## Kubernetes Architecture
+![Kubernetes Architecture](Simple%20Kubernetes%20Architecture.png)
 
 Spent the day exploring Kubernetes and its core components.
 Gained a better understanding of how it manages, schedules, and scales containers across clusters.
@@ -42,3 +44,5 @@ Kubernetes follows a **master-worker** architecture:
  **Key Takeaway:** Kubernetes abstracts container management into a powerful architecture that supports scaling, healing, and multi-cloud operations.
 
  Fun fact: Kubernetes automatically restarts failed pods for high availability!
+
+
