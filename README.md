@@ -1,7 +1,3 @@
-
-###############################################################################################
-DevOps Learning Journey – Kubernetes Architecture
-###############################################################################################
 ## Kubernetes Architecture
 ![Kubernetes Architecture](Simple%20Kubernetes%20Architecture.png)
 
